@@ -6,7 +6,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 public class LoopTest {
     @Test
     public void testTest() {
-        assertEquals(6, 6);
+        assertEquals(1, 6);
     }
 
     @Test
