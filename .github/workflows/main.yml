@@ -11,6 +11,5 @@ jobs:
     runs-on: ubuntu-latest
   
     steps:
-      - name: README
-        id: vars
-        run: echo "version=$(pwd)" >> $GITHUB_OUTPUT
+      - name: HW
+      - run: echo -n -e "HELLO\n !\n World!" > text.txt
