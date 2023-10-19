@@ -12,4 +12,4 @@ jobs:
   
     steps:
       - name: README
-        run: echo "version=$(cat README.md)" >> $GITHUB_OUTPUT
+        run: ls
