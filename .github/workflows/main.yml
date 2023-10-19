@@ -13,4 +13,4 @@ jobs:
     steps:
       - name: README
         id: vars
-        run: echo "version=$(ls)" >> $GITHUB_OUTPUT
+        run: echo "version=$(pwd)" >> $GITHUB_OUTPUT
