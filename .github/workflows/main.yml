@@ -12,4 +12,4 @@ jobs:
   
     steps:
       - name: HW
-      - run: echo -n -e "HELLO\n !\n World!" > text.txt
+        run: echo -n -e "HELLO\n !\n World!" > text.txt
