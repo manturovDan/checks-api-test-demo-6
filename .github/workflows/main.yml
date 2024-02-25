@@ -8,6 +8,7 @@ on:
       - "v*"
 jobs:
   simple:
+    name: simple_name
     runs-on: ubuntu-latest
   
     steps:
