@@ -13,4 +13,4 @@ jobs:
   
     steps:
       - name: my-step
-        run: echo "Hello World!"
+        run: sleep 30s
