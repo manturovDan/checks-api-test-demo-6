@@ -14,5 +14,3 @@ jobs:
     steps:
       - name: my-step
         run: echo "Hello World!"
-      - name: delay30
-        run: sleep 30
