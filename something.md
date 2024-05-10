@@ -2,7 +2,5 @@
 The Build is executing in TeamCity now
 
 
-<span style="color:blue">some *blue* text</span>.
-
 
 Some Markdown text with <span style="color:blue">some *blue* text</span>.
