@@ -1,7 +1,17 @@
 <div align="center">
-  <br/>
-  <a href="https://github.com/DavidWells/advanced-markdown/blame/master/svg-with-css.svg">
-    <img alt="Click to see the source" height="400" src="svg-with-css.svg" width="800" />
-  </a>
-  <br/>
+	<br>
+	<a href="https://github.com/sindresorhus/css-in-readme-like-wat/blame/main/header.svg">
+		<img src="header.svg" width="800" height="400" alt="Click to see the source">
+	</a>
+	<br>
 </div>
+
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+Explanation: https://css-tricks.com/custom-styles-in-github-readmes/
