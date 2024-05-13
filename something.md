@@ -1,10 +1,18 @@
-<img src="https://resources.jetbrains.com/storage/products/company/brand/logos/TeamCity_icon.png" width="32" height="32" alt="TeamCity logo" align="left"/>
-The Build is executing in TeamCity now
+### in progress
+
+<p align="center">
+  <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/TeamCity_icon.png" width="32" height="32" alt="TeamCity logo" align="center"/>
+</p>
 
 
+> [!NOTE]
+> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Youtube_loading_symbol_1_(wobbly).gif" width="24" height="24" alt="TeamCity logo" align="left"/>
+> &nbsp;&nbsp;&nbsp;The Build is executing in <a href="https://google.com">TeamCity</a> now
 
-Some Markdown text with <span style="color:blue">some *blue* text</span>.
+<blockquote style="color:red">
+<p>This is a warning</p>
+</blockquote>
 
+### failure
 
-<img src="https://i.giphy.com/StKiS6x698JAl9d6cx.webp" width="32" height="32" alt="TeamCity logo" align="left"/>
-
+### success
