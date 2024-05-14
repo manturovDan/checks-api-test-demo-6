@@ -1,7 +1,7 @@
 ### in progress
 
 <p align="center">
-  <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/TeamCity_icon.png" width="32" height="32" alt="TeamCity logo" align="center"/>
+  <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/TeamCity_icon.png" width="32" height="32" alt="TeamCity logo" align="left"/>
 </p>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Youtube_loading_symbol_1_(wobbly).gif" width="24" height="24" alt="TeamCity logo" align="left"/>
@@ -43,3 +43,15 @@
   &#x2705;&#128295; <a href="https://google.com">Test2</a><br/>
 </details>
 <a href = "https://google.com">(see full report on TeamCity page)</a>
+
+---
+---
+# GHE
+---
+# in progress
+
+<p align="center">
+    TeamCity
+</p>
+
+&#x23F3; <a href="https://google.com">The Build</a> is executing on TeamCity now
