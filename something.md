@@ -14,7 +14,11 @@
 </p>
 
 > [!CAUTION]
-> &nbsp;&nbsp;&nbsp;<a href="https://google.com">The Build</a> was failed on TeamCity (Reason of failure)
+> <a href="https://google.com">The Build</a> was failed on TeamCity<br/>
+> #### Reasons:
+> * reason 1
+> * reason 2
+> * reason 3
 
 #### 13 tests passed: 10 successful, 3 failed (1 new failure), 0 ignored
 <details>
