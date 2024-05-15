@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/TeamCity_icon.png" width="64" height="64" alt="TeamCity logo" align="center"/>
 </p>
-<img src="https://raw.githubusercontent.com/manturovDan/gha_test_2/master/xJ2cLA5tV7.gif" width="32" height="32" alt="TeamCity logo" align="left"/>
+<img src="https://raw.githubusercontent.com/manturovDan/gha_test_2/master/poPPG7W4vS (1).gif" width="32" height="32" alt="TeamCity logo" align="left"/>
 <a href="https://google.com">The Build</a> is executing on TeamCity now
 
 ---
