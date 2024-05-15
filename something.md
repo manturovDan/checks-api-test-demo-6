@@ -21,9 +21,9 @@
 
 <details>
   <summary>13 tests passed: 10 successful, 3 failed (1 new failure), 0 ignored</summary>
-  &#x2705;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://google.com">Test1</a><br/>
-  &#x2705;&#128295; <a href="https://google.com">Test2</a><br/>
-  &#10060;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://google.com">Test3</a><br/>
+  &#128308;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://google.com">Test1</a><br/>
+  &#11093;&#x1F195; <a href="https://google.com">Test2</a><br/>
+  &#128997;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://google.com">Test3</a><br/>
   &#10060;&#x1F195; <a href="https://google.com">Test4</a><br/>
 </details>
 <a href = "https://google.com">(see full report on TeamCity page)</a>
