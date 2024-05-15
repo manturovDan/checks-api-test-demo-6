@@ -20,13 +20,13 @@
 > * reason 3
 
 <details>
-  <summary>13 tests passed: 10 successful, 3 failed (1 new failure), 0 ignored</summary>
+  <summary>13 tests passed: 10 successful, 3 failed (1 new failure), 0 ignored <a href="https://google.com">(report)</a></summary>
   &#128308;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://google.com">Test1</a><br/>
   &#11093;&#x1F195; <a href="https://google.com">Test2</a><br/>
   &#128997;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://google.com">Test3</a><br/>
   &#10060;&#x1F195; <a href="https://google.com">Test4</a><br/>
+  ...
 </details>
-<a href = "https://google.com">(see full report on TeamCity page)</a>
 
 ---
 
