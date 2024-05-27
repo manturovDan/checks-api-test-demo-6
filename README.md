@@ -26,3 +26,4 @@ pr 6
 pr- not covered 
 prprpr
 parameter 
+pass checks parameters
