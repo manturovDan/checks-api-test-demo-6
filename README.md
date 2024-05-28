@@ -7,3 +7,4 @@ not covered by branch filter
 not create cs
 no filter
 100
+pr check
