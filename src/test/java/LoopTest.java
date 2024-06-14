@@ -11,7 +11,7 @@ public class LoopTest {
 
     @Test
     public void firstTest() {
-        assertEquals(1, Fibo.fibo_loop(1));
+        assertEquals(10, Fibo.fibo_loop(1));
     }
 
     @Test
