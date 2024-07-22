@@ -6,7 +6,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 public class LoopTest {
     @Test
     public void testTest() {
-        assertEquals(7, -7);
+        assertEquals(7, 7);
     }
 
     @Test
@@ -21,7 +21,7 @@ public class LoopTest {
 
     @Test
     public void bigintTest() {
-        assertEquals(-14930352, Fibo.fibo_loop(36));
+        assertEquals(14930352, Fibo.fibo_loop(36));
     }
 
     @Test
