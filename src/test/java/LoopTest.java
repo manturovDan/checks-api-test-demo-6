@@ -26,6 +26,6 @@ public class LoopTest {
 
     @Test
     public void veryBigintTest() {
-        assertEquals(-1134903170, Fibo.fibo_loop(45));
+        assertEquals(1134903170, Fibo.fibo_loop(45));
     }
 }
