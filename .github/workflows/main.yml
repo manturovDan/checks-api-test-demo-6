@@ -1,16 +1,1 @@
-name: GH CI
 
-on: 
-  push:
-    branches:
-          - "*"
-    tags:
-      - "v*"
-jobs:
-  simple:
-    name: simple_name
-    runs-on: ubuntu-latest
-  
-    steps:
-      - name: my-step
-        run: sleep 30s
