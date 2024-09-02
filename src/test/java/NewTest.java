@@ -30,12 +30,12 @@ public class NewTest {
     }
 
     @Test
-    public void bigintTestNew1() {
+    public void bigintTestNew100000() {
         assertEquals(14930352, Fibo.fibo_recursion(2));
     }
 
     @Test
-    public void bigintTestNew1() {
+    public void bigintTestNew112345() {
         assertEquals(14930352, Fibo.fibo_recursion(2));
     }
 
@@ -200,7 +200,7 @@ public class NewTest {
         assertEquals(14930352, Fibo.fibo_recursion(2));
     }
     @Test
-    public void bigintTestNew1111() {
+    public void bigintTestNew111100() {
         assertEquals(14930352, Fibo.fibo_recursion(2));
     }
     @Test
