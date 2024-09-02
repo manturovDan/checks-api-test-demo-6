@@ -196,7 +196,7 @@ public class NewTest {
         assertEquals(14930352, Fibo.fibo_recursion(2));
     }
     @Test
-    public void bigintTestNew1110() {
+    public void bigintTestNewnew1110() {
         assertEquals(14930352, Fibo.fibo_recursion(2));
     }
     @Test
