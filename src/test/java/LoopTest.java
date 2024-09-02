@@ -31,27 +31,27 @@ public class LoopTest {
 
     @Test
     public void bigintTestNew1007x() {
-        assertEquals(14930352, Fibo.fibo_recursion(2));
+        assertEquals(2, Fibo.fibo_recursion(2));
     }
     @Test
     public void bigintTestNew1008x() {
-        assertEquals(14930352, Fibo.fibo_recursion(2));
+        assertEquals(2, Fibo.fibo_recursion(2));
     }
     @Test
     public void bigintTestNew1009x() {
-        assertEquals(14930352, Fibo.fibo_recursion(2));
+        assertEquals(2, Fibo.fibo_recursion(2));
     }
     @Test
     public void bigintTestNewnew1110x() {
-        assertEquals(14930352, Fibo.fibo_recursion(2));
+        assertEquals(2, Fibo.fibo_recursion(2));
     }
     @Test
     public void bigintTestNew111100x() {
-        assertEquals(14930352, Fibo.fibo_recursion(2));
+        assertEquals(2, Fibo.fibo_recursion(2));
     }
     @Test
     public void bigintTestNew1112x() {
-        assertEquals(14930352, Fibo.fibo_recursion(2));
+        assertEquals(2, Fibo.fibo_recursion(2));
     }
     @Test
     public void bigintTestNew1113x() {
