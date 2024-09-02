@@ -23,4 +23,14 @@ public class NewTest {
     public void bigintTest() {
         assertEquals(14930352, Fibo.fibo_recursion(2));
     }
+
+    @Test
+    public void bigintTestNew() {
+        assertEquals(14930352, Fibo.fibo_recursion(2));
+    }
+
+    @Test
+    public void bigintTestNew1() {
+        assertEquals(14930352, Fibo.fibo_recursion(2));
+    }
 }
