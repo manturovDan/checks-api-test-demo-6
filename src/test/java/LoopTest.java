@@ -16,7 +16,7 @@ public class LoopTest {
 
     @Test
     public void secondTest() {
-        assertEquals(2, Fibo.fibo_loop(2));
+        assertEquals(1, Fibo.fibo_loop(2));
     }
 
     @Test
@@ -31,23 +31,23 @@ public class LoopTest {
 
     @Test
     public void bigintTestNew1007x() {
-        assertEquals(2, Fibo.fibo_recursion(2));
+        assertEquals(1, Fibo.fibo_recursion(2));
     }
     @Test
     public void bigintTestNew1008x() {
-        assertEquals(2, Fibo.fibo_recursion(2));
+        assertEquals(1, Fibo.fibo_recursion(2));
     }
     @Test
     public void bigintTestNew1009x() {
-        assertEquals(2, Fibo.fibo_recursion(2));
+        assertEquals(1, Fibo.fibo_recursion(2));
     }
     @Test
     public void bigintTestNewnew1110x() {
-        assertEquals(2, Fibo.fibo_recursion(2));
+        assertEquals(1, Fibo.fibo_recursion(2));
     }
     @Test
     public void bigintTestNew111100x() {
-        assertEquals(2, Fibo.fibo_recursion(2));
+        assertEquals(1, Fibo.fibo_recursion(2));
     }
     @Test
     public void bigintTestNew1112x() {
@@ -55,6 +55,6 @@ public class LoopTest {
     }
     @Test
     public void bigintTestNew1113x() {
-        assertEquals(2, Fibo.fibo_recursion(2));
+        assertEquals(1, Fibo.fibo_recursion(2));
     }
 }
