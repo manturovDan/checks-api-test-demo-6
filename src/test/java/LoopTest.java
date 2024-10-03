@@ -51,7 +51,7 @@ public class LoopTest {
     }
     @Test
     public void bigintTestNew1112x() {
-        assertEquals(2, Fibo.fibo_recursion(2));
+        assertEquals(1, Fibo.fibo_recursion(2));
     }
     @Test
     public void bigintTestNew1113x() {
