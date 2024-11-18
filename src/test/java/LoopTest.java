@@ -6,7 +6,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 public class LoopTest {
     @Test
     public void testTest() {
-        assertEquals(7, 7);
+        assertEquals(1, 1);
     }
 
     @Test
@@ -27,5 +27,34 @@ public class LoopTest {
     @Test
     public void veryBigintTest() {
         assertEquals(1134903170, Fibo.fibo_loop(45));
+    }
+
+    @Test
+    public void bigintTestNew1007x() {
+        assertEquals(1, Fibo.fibo_recursion(2));
+    }
+    @Test
+    public void bigintTestNew1008x() {
+        assertEquals(1, Fibo.fibo_recursion(2));
+    }
+    @Test
+    public void bigintTestNew1009x() {
+        assertEquals(1, Fibo.fibo_recursion(2));
+    }
+    @Test
+    public void bigintTestNewnew1110x() {
+        assertEquals(1, Fibo.fibo_recursion(2));
+    }
+    @Test
+    public void bigintTestNew111100x() {
+        assertEquals(1, Fibo.fibo_recursion(2));
+    }
+    @Test
+    public void bigintTestNew1112x() {
+        assertEquals(1, Fibo.fibo_recursion(2));
+    }
+    @Test
+    public void bigintTestNew1113x() {
+        assertEquals(1, Fibo.fibo_recursion(2));
     }
 }
